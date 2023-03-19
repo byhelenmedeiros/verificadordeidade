@@ -52,7 +52,7 @@ function verificar(){
         
             res.innerHTML = `Olá! Detectamos que é ${genero} e tem ${idade} anos.`
             res.appendChild(img)
-            res.style.fontSize = "16px"
+            res.style.fontSize = "14px"
             res.style.padding = "10px"
             res.style.color = "#473b4e"
 
